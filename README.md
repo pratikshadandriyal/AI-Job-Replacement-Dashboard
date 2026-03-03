@@ -5,18 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-### Page 1 — Overview
-![Overview](screenshot/overview.png)
-
-### Page 2 — AI Risk Analysis
-![AI Risk](screenshot/salary analysis.png)
-
-### Page 3 — Salary Impact
-![Salary Impact](screenshots/AI risk analysis.png)
-
-### Page 4 — Skills & Reskilling
-![Skills](screenshots/skills&reskilling.png)
-
 
 ---
 
@@ -86,4 +74,4 @@ Clean CSV → Python (dirty data) → SQL Server (cleaning) → Power BI (dashbo
 
 ## 👩‍💻 Author
 **Pratiksha Dandriyal** — Data Analyst
-📧 [[LinkedIn](http://www.linkedin.com/in/pratikshadandriyal)
+📧 [[LinkedIn]}(http://www.linkedin.com/in/pratikshadandriyal)
