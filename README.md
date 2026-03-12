@@ -49,6 +49,12 @@ Clean CSV → Python (dirty data) → SQL Server (cleaning) → Power BI (dashbo
 | 4 | Skills & Reskilling | Bar Charts, Line, Donut |
 
 ---
+## 📸 Dashboard Preview
+
+![Overview](Screenshots/overview.png)
+![AI Risk Analysis](Screenshots/AI%20risk%20analysis.png)
+![Salary Analysis](Screenshots/salary%20analysis.png)
+![Skills & Reskilling](Screenshots/skills%20%26%20reskilling.png)
 
 ## 💡 Key Insights
 - **27.78%** of jobs are at high automation risk
